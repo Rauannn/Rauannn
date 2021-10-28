@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and development
 
 - 📫 How to reach me ...
-Insta: rauangab
+Insta: rauangabriel_
 
 <!---
 Rauannn/Rauannn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
